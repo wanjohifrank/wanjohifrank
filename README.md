@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+##https://resources.altium.com/p/what-high-speed-design
+
 I'm passionate about **circuit design**, **microcontrollers**, and **PLCs** (Programmable Logic Controllers). I love working on embedded systems projects that bridge hardware and software.
 
 ### 🔭 What I'm interested in:
